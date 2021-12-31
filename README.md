@@ -10,8 +10,8 @@
 <h1><i>Installation & Download</i></h1>
 <p>Our builds are available on: <strong>Github Releases</strong>, <strong>Github Actions</strong>, <strong>F-Droid: IzzyOnDroid</strong>, <strong>F-Droid: Our own repo</strong>, <strong>Telegram</strong>.</p>
 <h2><i>Links</i></h2>
-<h4><a href="#">Go to Github Releases</a></h4>
-<h4><a href="#">Go to Github Actions</a></h4>
+<h4><a href="https://github.com/otakuhqz/Omega/releases">Go to Github Releases</a></h4>
+<h4><a href="https://github.com/otakuhqz/Omega/actions">Go to Github Actions</a></h4>
 <br />
 <h4><i><strong>F-Droid</strong>: Add the links below into your F-Droid client</i>.</h4>
 <h4><a href="https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A">IzzyOnDroid repo link</a><br /><code>https://apt.izzysoft.de/fdroid/repo</code></h4>
